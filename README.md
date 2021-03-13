@@ -34,14 +34,14 @@ Project backup for Fusion App
 
 ### feature overview
 
-** Backup FA project directory **
+**Backup FA project directory**
 
-** Zip packing **
+**Zip packing**
 
-** Custom backup directory **
+**Custom backup directory**
 
-** Nail API feedback **
+**Nail API feedback**
 
-** Convenient switch listener function **
+**Convenient switch listener function**
 
-** GitHub open source reference page example **
+**GitHub open source reference page example**
