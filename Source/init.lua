@@ -1,0 +1,18 @@
+appname="FA备份"
+appver="2.0.7"
+appcode="2"
+appsdk="15"
+path_pattern=".fas"
+packagename="com.fix.Fa.BackupHelper"
+theme="Theme_Material_Light"
+app_key=""
+app_channel="lua"
+developer="luoying|original_Jesse205"
+description="Fusionapp_Backup_tool"
+debugmode=true
+user_permission={
+  "ACCESS_NETWORK_STATE",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
